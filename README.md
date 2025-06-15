@@ -1,4 +1,4 @@
-# The Island – Projet POO (IATIC 3 – 2021/2022)
+# The Island – Projet POO IATIC 3
 
 ## Description
 
@@ -67,3 +67,4 @@ java -jar target/TheIsland.jar
 ---
 
 > Projet universitaire encadré par l’équipe pédagogique de l’IATIC 3.
+> IATIC 3 – 2021/2022
